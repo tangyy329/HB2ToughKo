@@ -1,0 +1,40 @@
+.table {
+    border-spacing: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.Happy {color: coral;}
+.Happy:hover {color: skyblue ;}
+.Birthday {color: forestgreen;}
+.Birthday:hover {color: gold;}
+.to {color: dodgerblue;}
+.to:hover {color: orchid;}
+.ToughKo {color: blueviolet;}
+.ToughKo:hover {color: limegreen;}
+.smile {color: brown; font-style: normal;}
+.smile:hover {color: mediumslateblue  ; font-style: normal;}
+
+.hr1 {
+    border-color: rgb(185, 183, 183);
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    width: 5%;
+}
+
+iframe {
+    display: block;
+    margin: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    width: 45%;
+}
+
+body {background-color: #F0EEED;}
